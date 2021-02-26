@@ -1,3 +1,4 @@
+## EMR Project3
 ### Purpose of this repo
 Share code that is to be run on EMR. This can include jobs to be run on behalf of the class, examples that you've found useful and would like to share, or anything else you think is appropriate.
 
