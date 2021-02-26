@@ -9,6 +9,8 @@ If anyone is interested in collaborating, shoot me your GitHub handle on Discord
 
 - I'm going to start by focusing on the columnar index because I've already spent some time thinking about it and working with it
 
+- As per conversation with the class, I'll initially focus on columns 'url_host_name', 'url_path', and 'url_host_tld'
+
 - If someone would like to get started working the main index and share their work here,  please feel free
 
 - TODO: add more goals
