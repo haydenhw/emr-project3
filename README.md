@@ -5,7 +5,7 @@ Share code that is to be run on EMR. This can include jobs to be run on behalf o
 If anyone is interested in collaborating, shoot me your GitHub handle on Discord and I'll add you as an admin to this repo.
 
 ### EMR Goals
-- Sample the common crawl datasets to produce a smaller, more manageable datasets that everyone can individually download and run queries on locally
+- Sample the common crawl datasets to produce smaller, more manageable datasets that everyone can individually download and run queries on locally
 
 - I'm going to start by focusing on the columnar index because I've already spent some time thinking about it and working with it
 
